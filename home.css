@@ -1,0 +1,41 @@
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.header {
+    text-align: right;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Ranga', cursive;
+    font-size: 150px;
+}
+
+#paragraph {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.tokens {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.token {
+    width: 150px;
+    height: 150px;
+    margin: 20px
+}
+
+p {
+    color: white;
+}
